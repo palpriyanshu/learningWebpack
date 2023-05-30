@@ -1,0 +1,24 @@
+{
+  "name": "learningwebpack",
+  "version": "1.0.0",
+  "description": "It is about webpack introduction and basic concepts",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
+  },
+  "devDependencies": {
+    "webpack": "^5.84.1",
+    "webpack-cli": "^5.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palpriyanshu/learningWebpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palpriyanshu/learningWebpack/issues"
+  },
+  "homepage": "https://github.com/palpriyanshu/learningWebpack#readme"
+}
